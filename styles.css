@@ -1,0 +1,43 @@
+h1 {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+h2 {
+    font-family: 'Zen Kurenaido', sans-serif;
+}
+
+.blue {
+    color: #0DD4C2;
+    background-color:#0D95D4;
+}
+
+.pink {
+    color: pink;
+    background-color: lavender;
+}
+
+.green {
+    color: #148F77;
+    background-color: #1FD40D;
+}
+
+.red {
+    color: red;
+    background-color: orange;
+}
+
+p {
+    color: purple;
+    background-color: pink;
+    text-align: center;
+    background: url("https://secure.img1-fg.wfcdn.com/im/32655125/resize-h445%5Ecompr-r85/1178/117860624/Donut+Sprinkles+Tasty+Food+Bakery+Fabric.jpg");
+}
+
+body {
+    background-color: #D40DB3;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
